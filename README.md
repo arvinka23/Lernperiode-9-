@@ -38,11 +38,16 @@ Fügen von Bilder oder Icons hinzu
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 14.3
-[ ]
-[ ] ...
-[ ] ...
-[ ] ...
-[ ]Rückmeldung von den Bewebungen
+- [x] Grundstruktur und Projektsetup: Erstelle die Rust-Projektstruktur und grundlegende Module.
+- [x] Sudoku-Struktur definieren: Implementiere die Sudoku-Struktur mit einem 9x9-Grid.
+- [x] Grid-Anzeige: Schreibe eine Funktion zum formatieren und anzeigen des Grids.
+- [x] Validierungslogik: Implementiere die Funktion zur Überprüfung der Sudoku-Regeln.
 ✍️ Heute habe ich... (50-100 Wörter)
+
+21.3
+- [x] Backtracking-Algorithmus (Teil 1): Starte die Implementierung des rekursiven Füll-Algorithmus.
+- [x] Backtracking-Algorithmus (Teil 2): Vervollständige den Algorithmus zum Generieren eines gelösten Sudokus.
+- [x] Zufällige Zahlenentfernung: Funktion zum Entfernen von Zahlen für das Rätsel.
+- [x] Rätsel-Generierung: Kombiniere die Schritte zu einer vollständigen Rätselgenerierung.
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
