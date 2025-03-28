@@ -50,4 +50,9 @@ Fügen von Bilder oder Icons hinzu
 - [x] Zufällige Zahlenentfernung: Funktion zum Entfernen von Zahlen für das Rätsel.
 - [x] Rätsel-Generierung: Kombiniere die Schritte zu einer vollständigen Rätselgenerierung.
 
-☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
+28.03
+- [ ]Fehlerbehandlung: Füge Eingabevalidierung und Fehlerbehandlung hinzu.
+- [ ]Schwierigkeitsgrade: Implementiere verschiedene Schwierigkeitsstufen.
+- [ ]Tests: Schreibe grundlegende Unit-Tests für die Hauptfunktionen.
+- [ ]Finale Optimierung: Code aufräumen und Dokumentation hinzufügen.
+
